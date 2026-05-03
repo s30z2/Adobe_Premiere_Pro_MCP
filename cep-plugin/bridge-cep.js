@@ -81,7 +81,7 @@
         }
 
         this.loadConfig();
-        this.updateUI();
+        this.startBridge();
         this.startCommandPolling();
     };
 
